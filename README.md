@@ -4,7 +4,7 @@ A modern, visually stunning landing page for the fictional **ADmyBRAND AI Suite*
 
 ## 🖼️ Preview
 
-> Live Demo: [https://admybrand-ai.vercel.app](https://admybrand-ai.vercel.app)  
+> Live Demo: https://noteapp-m32l.vercel.app/ 
 > Design: Inspired by 2025 UI/UX trends (glassmorphism, scroll animations, responsive)
 
 
